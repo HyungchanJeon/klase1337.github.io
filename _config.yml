@@ -17,3 +17,5 @@ description              : "CryptoMarket Trends, Mobile Security"
 url                      : "https://klase1337.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+
+theme: jekyll-theme-hacker
